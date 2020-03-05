@@ -63,6 +63,19 @@
 				"author": "Comment Bala",
 				"body": "This is comment 2"
 			}]
+		}, 
+		{
+			"id": 6,
+			"title": "Title6",
+			"author": "John",
+			"image": "https://picsum.photos/seed/picsum/1920/1080",
+			"comments": [{
+				"author": "Comment Raj",
+				"body": "This is comment 1"
+			}, {
+				"author": "Comment Bala",
+				"body": "This is comment 2"
+			}]
 		}
 	]
 }
