@@ -3,7 +3,7 @@
 			"id": 1,
 			"title": "Title1",
 			"author": "Jack",
-			"image": "https://picsum.photos/1920/1080",
+			"image": "https://picsum.photos/id/1015/1920/1080",
 			"comments": [{
 				"author": "Comment Raj",
 				"body": "This is comment 1"
