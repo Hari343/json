@@ -3,7 +3,7 @@
 			"id": 1,
 			"title": "Title1",
 			"author": "Jack",
-			"image": "img1",
+			"image": "https://picsum.photos/seed/picsum/200/300",
 			"comments": [{
 				"author": "Comment Raj",
 				"body": "This is comment 1"
@@ -16,7 +16,7 @@
 			"id": 2,
 			"title": "Title2",
 			"author": "Mack",
-			"image": "img1",
+			"image": "https://picsum.photos/seed/picsum/200/300",
 			"comments": [{
 				"author": "Comment Raj",
 				"body": "This is comment 1"
@@ -29,7 +29,7 @@
 			"id": 3,
 			"title": "Title3",
 			"author": "Robb",
-			"image": "img1",
+			"image": "https://picsum.photos/seed/picsum/200/300",
 			"comments": [{
 				"author": "Comment Raj",
 				"body": "This is comment 1"
@@ -42,7 +42,7 @@
 			"id": 4,
 			"title": "Title4",
 			"author": "Max",
-			"image": "img1",
+			"image": "https://picsum.photos/seed/picsum/200/300",
 			"comments": [{
 				"author": "Comment Raj",
 				"body": "This is comment 1"
@@ -55,7 +55,7 @@
 			"id": 5,
 			"title": "Title5",
 			"author": "Will",
-			"image": "img1",
+			"image": "https://picsum.photos/seed/picsum/200/300",
 			"comments": [{
 				"author": "Comment Raj",
 				"body": "This is comment 1"
