@@ -16,7 +16,7 @@
 			"id": 2,
 			"title": "Title2",
 			"author": "Mack",
-			"image": "https://picsum.photos/seed/picsum/1920/1080",
+			"image": "https://picsum.photos/1920/1080",
 			"comments": [{
 				"author": "Comment Raj",
 				"body": "This is comment 1"
