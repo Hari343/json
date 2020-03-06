@@ -1,5 +1,5 @@
 {
-	"posts": [{
+	"posts": {"posts": [{
 			"id": 1,
 			"title": "Title1",
 			"author": "Jack",
@@ -90,9 +90,10 @@
 				"body": "This is comment 2"
 			}]
 		}
-	],
-	
-	"events": [{
+	]
+    },
+	"events": {
+	    "events": [{
 		"title": "Event 1",
 		"date": "19/01/2020",
 		"time": "0001h"
@@ -113,4 +114,5 @@
 		"date": "23/01/2020",
 		"time": "0005h"
 	}]
+    }
 }
